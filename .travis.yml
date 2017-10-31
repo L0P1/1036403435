@@ -4,4 +4,5 @@ php:
  - "7.0"
  
 script:
- - php: primerarchivo.php
+ - php primerarchivo.php
+
